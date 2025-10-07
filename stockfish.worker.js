@@ -1,1 +1,0 @@
-Couldn't find the requested file /src/wasm/stockfish.worker.js in official-stockfish/Stockfish.
